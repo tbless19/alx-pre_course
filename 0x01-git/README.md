@@ -1,2 +1,2 @@
 This is my second
-Ths is an update
+This is an update
